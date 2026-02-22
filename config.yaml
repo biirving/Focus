@@ -1,0 +1,11 @@
+capture_interval: null
+analysis_interval: null
+model: ''
+max_tokens: null
+prompt_file: prompt.md
+screenshot_dir: /tmp/focus_screenshots
+max_screenshots: 10
+resize_max_dimension: 1092
+notification_style: system
+notification_cooldown: null
+escalation_delay: null
